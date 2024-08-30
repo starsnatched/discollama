@@ -9,6 +9,9 @@ __pycache__/
 # Embeddings
 storage/
 
+# DataBase
+*.db
+
 # Distribution / packaging
 .Python
 build/
