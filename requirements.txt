@@ -1,0 +1,6 @@
+python-decouple
+discord
+llama-index-llms-ollama
+llama-index
+llama-index-embeddings-ollama
+llama-index-readers-web
